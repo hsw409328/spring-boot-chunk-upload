@@ -1,6 +1,6 @@
 # test-vue
 
-> A Vue.js project
+> 分片上传前台项目，使用的是vue-uploader
 
 ## Build Setup
 
@@ -28,3 +28,5 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## 使用的时候关注HelloWord.vue就可以。文件内有注释及相关说明
